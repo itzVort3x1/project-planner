@@ -37,7 +37,7 @@ export default {
 }
 </script>
 
-<style>
+<style >
     form {
     background: white;
     padding: 20px;
